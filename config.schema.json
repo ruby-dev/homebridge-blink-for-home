@@ -96,6 +96,10 @@
                 "title": "Enable Diagnostic Logging on startup",
                 "default": false,
                 "type": "boolean"
+            },
+            "location": {
+              "title": "Blink Location for this Home",
+              "type": "string"
             }
         },
         "required": [
